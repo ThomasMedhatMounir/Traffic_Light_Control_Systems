@@ -1,0 +1,19 @@
+"--endian=little" 
+
+"--cpu=Cortex-M4" 
+
+"--fpu=VFPv4_SP" 
+
+"-p" 
+
+"D:\career\IAR for ARM\IAR ARM\arm\CONFIG\debugger\TexasInstruments\TM4C123GH6PM.ddf" 
+
+"--semihosting" 
+
+"--device=TM4C123GH6PM" 
+
+"--multicore_nr_of_cores=1" 
+
+
+
+

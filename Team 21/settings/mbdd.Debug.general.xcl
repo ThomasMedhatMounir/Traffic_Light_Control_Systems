@@ -1,0 +1,13 @@
+"D:\career\IAR for ARM\IAR ARM\arm\bin\armPROC.dll" 
+
+"D:\career\IAR for ARM\IAR ARM\arm\bin\armSIM2.dll" 
+
+"D:\career\1 ASU & UEL\Semester 7\Major task\Embedded\Major Task Embedded\Team 21\Debug\Exe\mbdd.out" 
+
+--plugin="D:\career\IAR for ARM\IAR ARM\arm\bin\armbat.dll" 
+
+--device_macro="D:\career\IAR for ARM\IAR ARM\arm\config\debugger\TexasInstruments\TM4C123.dmac" 
+
+
+
+
